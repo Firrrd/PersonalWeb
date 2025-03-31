@@ -15,6 +15,10 @@ h1 {
     margin-bottom: 15px;
 }
 
+ul li {
+    margin-left: 15px;
+}
+
 /* Image Styling */
 .photo img, .real-pic img, .sdmn-pic img {
     width: 100%;
